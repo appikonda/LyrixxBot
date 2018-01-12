@@ -10,7 +10,7 @@ public class MusixMatchService {
   
 	
    public String findLyrics(String songName) throws MusixMatchException {
-	   String apiKey = "a3e86801b2492f01e772f949bfbd30ef";
+	   String apiKey =  "<API KEY>";
 	   MusixMatch musixMatch = new MusixMatch(apiKey);
 	   
 	   
