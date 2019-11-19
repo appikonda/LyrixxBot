@@ -1,0 +1,32 @@
+{
+  "name": "lyrixxbot",
+  "version": "1.0.0",
+  "description": "Telegram bot to find song lyrics",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.40.0",
+    "telegraf": "^3.33.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appikonda/LyrixxBot.git"
+  },
+  "keywords": [
+    "TelegramBot",
+    "Node",
+    "Express",
+    "Lyrics"
+  ],
+  "author": "Sandeep Appikonda",
+  "license": "MIT\t",
+  "bugs": {
+    "url": "https://github.com/appikonda/LyrixxBot/issues"
+  },
+  "homepage": "https://github.com/appikonda/LyrixxBot#readme"
+}
